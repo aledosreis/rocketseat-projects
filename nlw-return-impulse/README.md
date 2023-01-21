@@ -6,7 +6,7 @@
 
 Um Component Widget para feedback que pode ser utilizado em qualquer site.
 
-![widget](.github/images/nlw-return-impulse.png)
+![widget](../.github/images/nlw-return-impulse.png)
 
 ## Layout
 
