@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "649332293411",
+    "project_id": "rockethelp-e2e01",
+    "storage_bucket": "rockethelp-e2e01.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:649332293411:android:0a364d6e0629ecee1c9696",
+        "android_client_info": {
+          "package_name": "com.rockethelp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "649332293411-g1q28268vu0hp4saqjigunqu56ana656.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAj9YRRWV8XQiD7OyEQ5bZKizJXB2SHWus"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "649332293411-g1q28268vu0hp4saqjigunqu56ana656.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
